@@ -2,6 +2,7 @@
 // ADD NEW ADMIN USER TO WORDPRESS
 // ----------------------------------
 // Put this file in your Wordpress root directory and run it from your browser.
+// Delete it when you're done.
  
 require_once('wp-blog-header.php');
 require_once('wp-includes/registration.php');
